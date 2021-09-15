@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Steno Test Feed</title>
+    <description>Steno Test Feed</description>
+    <language>en-us</language>
+    <link>https://www.steno.fm</link>
+    <item>
+      <title>SYLT</title>
+      <description>Testing SYLT</description>
+      <pubDate>Wed, 14 Sep 2021 12:00:00 GMT</pubDate>
+      <enclosure
+        url="https://stenofm.github.io/test-feed/test.mp3"
+        type="audio/mpeg"
+        length="1602717"/>
+      <itunes:duration>01:40</itunes:duration>
+      <guid isPermaLink="false">sylt</guid>
+    </item>
+  </channel>
+</rss>
