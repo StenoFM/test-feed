@@ -7,6 +7,17 @@
     <language>en-us</language>
     <link>https://www.steno.fm</link>
     <item>
+      <title>Cortex 105</title>
+      <description>Cortex 105</description>
+      <pubDate>Sat, 18 Sep 2021 12:00:00 GMT</pubDate>
+      <enclosure
+        url="https://user-files-pocketcasts.s3.amazonaws.com/de8b9777-8e82-4393-9b5b-9af511b43bf1/b95e221a-4b79-4ec8-a7df-5b54e96c4b12.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20210918T214126Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604800&X-Amz-Credential=AKIAUZGOUPWNX75MJRMM%2F20210918%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=494db5979e54294d95c5a5db00224b6e79fdca97793e16ac4bfb341df2a1449b"
+        type="audio/mpeg"
+        length="156559656"/>
+      <itunes:duration>01:48:34</itunes:duration>
+      <guid isPermaLink="false">cortex105</guid>
+    </item>
+    <item>
       <title>SYLT</title>
       <description>Testing SYLT</description>
       <pubDate>Wed, 14 Sep 2021 12:00:00 GMT</pubDate>
