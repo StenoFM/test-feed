@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
+    xmlns:podcast="https://podcastindex.org/namespace/1.0"
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Steno Test Feed</title>
@@ -7,7 +8,7 @@
     <language>en-us</language>
     <link>https://www.steno.fm</link>
     <item>
-      <title>Cortex 105</title>
+      <title>Cortex 105 (SRT)</title>
       <description>Cortex 105</description>
       <pubDate>Sat, 18 Sep 2021 12:00:00 GMT</pubDate>
       <enclosure
@@ -15,7 +16,19 @@
         type="audio/mpeg"
         length="156559656"/>
       <itunes:duration>01:48:34</itunes:duration>
-      <guid isPermaLink="false">cortex105</guid>
+      <guid isPermaLink="false">cortex105srt</guid>
+    </item>
+    <item>
+      <title>Cortex 105 (SYLT)</title>
+      <description>Cortex 105</description>
+      <pubDate>Sat, 18 Sep 2021 10:00:00 GMT</pubDate>
+      <enclosure
+        url="https://www.dropbox.com/s/lk5axh0j4vjnf82/Cortex_105_srt.mp3?raw=1"
+        type="audio/mpeg"
+        length="156559656"/>
+      <itunes:duration>01:48:34</itunes:duration>
+      <guid isPermaLink="false">cortex105sylt</guid>
+      <podcast:transcript url="https://stenofm.github.io/test-feed/Cortex_105.srt" type="text/srt" />
     </item>
     <item>
       <title>SYLT</title>
