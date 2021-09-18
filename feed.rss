@@ -8,7 +8,7 @@
     <language>en-us</language>
     <link>https://www.steno.fm</link>
     <item>
-      <title>Cortex 105 (SRT)</title>
+      <title>Cortex 105 (SYLT)</title>
       <description>Cortex 105</description>
       <pubDate>Sat, 18 Sep 2021 12:00:00 GMT</pubDate>
       <enclosure
@@ -16,10 +16,10 @@
         type="audio/mpeg"
         length="156559656"/>
       <itunes:duration>01:48:34</itunes:duration>
-      <guid isPermaLink="false">cortex105srt</guid>
+      <guid isPermaLink="false">cortex105sylt</guid>
     </item>
     <item>
-      <title>Cortex 105 (SYLT)</title>
+      <title>Cortex 105 (SRT)</title>
       <description>Cortex 105</description>
       <pubDate>Sat, 18 Sep 2021 10:00:00 GMT</pubDate>
       <enclosure
@@ -27,7 +27,7 @@
         type="audio/mpeg"
         length="156559656"/>
       <itunes:duration>01:48:34</itunes:duration>
-      <guid isPermaLink="false">cortex105sylt</guid>
+      <guid isPermaLink="false">cortex105srt</guid>
       <podcast:transcript url="https://stenofm.github.io/test-feed/Cortex_105.srt" type="text/srt" />
     </item>
     <item>
