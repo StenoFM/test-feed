@@ -8,6 +8,17 @@
     <language>en-us</language>
     <link>https://www.steno.fm</link>
     <item>
+      <title>Testing Timed Text</title>
+      <description>Testing Timed Text</description>
+      <pubDate>Sat, 15 Sep 2021 12:00:00 GMT</pubDate>
+      <enclosure
+        url="https://stenofm.github.io/test-feed/testing-timed-text.m4a"
+        type="audio/x-m4a"
+        length="196512"/>
+      <itunes:duration>00:12</itunes:duration>
+      <guid isPermaLink="false">timedtext</guid>
+    </item>
+    <item>
       <title>Cortex 105 (SYLT)</title>
       <description>Cortex 105</description>
       <pubDate>Sat, 18 Sep 2021 12:00:00 GMT</pubDate>
