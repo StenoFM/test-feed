@@ -8,6 +8,17 @@
     <language>en-us</language>
     <link>https://www.steno.fm</link>
     <item>
+      <title>Nathan Gathright from Steno.fm talks podcasting</title>
+      <description>Nathan Gathright from Steno.fm talks podcasting</description>
+      <pubDate>Thu, 7 Oct 2021 12:00:00 GMT</pubDate>
+      <enclosure
+        url="https://www.dropbox.com/s/5evznplpn9e14ku/Nathan-Gathright-Audience-Podcast%20with%20encoded%20captions.mp3?raw=1"
+        type="audio/mpeg"
+        length="41727428"/>
+      <itunes:duration>28:56</itunes:duration>
+      <guid isPermaLink="false">castos</guid>
+    </item>
+    <item>
       <title>Testing Timed Text</title>
       <description>Testing Timed Text</description>
       <pubDate>Sat, 25 Sep 2021 12:00:00 GMT</pubDate>
