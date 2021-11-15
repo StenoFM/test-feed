@@ -8,6 +8,17 @@
     <language>en-us</language>
     <link>https://www.steno.fm</link>
     <item>
+      <title>Cortex 121 (SYLT)</title>
+      <description>Cortex 121</description>
+      <pubDate>Mon, 15 Nov 2021 12:00:00 GMT</pubDate>
+      <enclosure
+        url="https://www.dropbox.com/s/svqb5lg43boh9g4/Cortex_121_sylt.mp3?raw=1"
+        type="audio/mpeg"
+        length="96894957"/>
+      <itunes:duration>01:39:21</itunes:duration>
+      <guid isPermaLink="false">cortex121sylt</guid>
+    </item>
+    <item>
       <title>Nathan Gathright from Steno.fm talks podcasting</title>
       <description>Nathan Gathright from Steno.fm talks podcasting</description>
       <pubDate>Thu, 7 Oct 2021 12:00:00 GMT</pubDate>
@@ -28,17 +39,6 @@
         length="196512"/>
       <itunes:duration>00:12</itunes:duration>
       <guid isPermaLink="false">timedtext</guid>
-    </item>
-    <item>
-      <title>Cortex 105 (SYLT)</title>
-      <description>Cortex 105</description>
-      <pubDate>Sat, 18 Sep 2021 12:00:00 GMT</pubDate>
-      <enclosure
-        url="https://www.dropbox.com/s/lk5axh0j4vjnf82/Cortex_105_srt.mp3?raw=1"
-        type="audio/mpeg"
-        length="156559656"/>
-      <itunes:duration>01:48:34</itunes:duration>
-      <guid isPermaLink="false">cortex105sylt</guid>
     </item>
     <item>
       <title>Cortex 105 (SRT)</title>
