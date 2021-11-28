@@ -8,6 +8,17 @@
     <language>en-us</language>
     <link>https://www.steno.fm</link>
     <item>
+      <title>SYLT Test PEDRO</title>
+      <description>Test with file that has SYLT</description>
+      <pubDate>Mon, 28 Nov 2021 10:45:00 GMT</pubDate>
+      <enclosure
+        url="https://www.compuphase.com/mp3/From-The-Machine-World.mp3"
+        type="audio/mpeg"
+        length="2926592"/>
+      <itunes:duration>2:01</itunes:duration>
+      <guid isPermaLink="false">SYLT Test PEDRO</guid>
+    </item>
+    <item>
       <title>Cortex 121 (SYLT)</title>
       <description>Cortex 121</description>
       <pubDate>Mon, 15 Nov 2021 12:00:00 GMT</pubDate>
