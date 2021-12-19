@@ -8,6 +8,18 @@
     <language>en-us</language>
     <link>https://www.steno.fm</link>
     <item>
+      <title>Descript JSON Link</title>
+      <description>Nathan Gathright from Steno.fm talks podcasting</description>
+      <pubDate>Sat, 18 Dec 2021 12:00:00 GMT</pubDate>
+      <enclosure
+        url="https://episodes.castos.com/audience/1/aeb8064d-0447-4a3d-9044-00fabdc912c6/Nathan-Gathright-Audience-Podcast.mp3"
+        type="audio/mpeg"
+        length="41720730"/>
+      <itunes:duration>28:56</itunes:duration>
+      <guid isPermaLink="false">descript-json</guid>
+      <podcast:transcript type="application/json" url="https://d1d3n03t5zntha.cloudfront.net/4f492290-6d10-44a0-b29a-9a6c777205bd/transcript-5e71b40d56f84f21998bac6953bbc0f6.json" />
+    </item>
+    <item>
       <title>SYLT Test PEDRO</title>
       <description>Test with file that has SYLT</description>
       <pubDate>Mon, 28 Nov 2021 10:45:00 GMT</pubDate>
